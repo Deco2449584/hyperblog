@@ -2,3 +2,5 @@ este es una nueva modificacion al archivo txt historia
 master 2
 
 master 3
+experimento 1 
+experimento 2
